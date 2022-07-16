@@ -84,10 +84,14 @@
       "gpa": "3.99",
       "courses": [
         "ICS 311: Algorithms",
+        "ICS 312: Machine-Level and Systems Programming",
         "ICS 314: Software Engineering",
         "ICS 321: Database Systems",
+        "ICS 332: Operating Systems",
         "ICS 390: Computing Ethics for LAs",
-        "ICS 451: Data Networks"
+        "ICS 414: Software Engineering II",
+        "ICS 451: Data Networks",
+        "ICS 496: Capstone Project"
       ]
     },
     {
@@ -107,9 +111,32 @@
   ],
   "work": [
     {
+      "company": "Decision Research Corporation",
+      "position": "Software Engineering Intern",
+      "website": "https://www.decisionresearch.com/",
+      "startDate": "2022/6/7",
+      "endDate": "Present",
+      "summary": "Software Engineering Intern",
+      "highlights": [
+        "Upgrade jQuery library to its latest version on their various web solutions and server.",
+        "Use Quality Assurance scripts to ensure functionality is maintained."
+      ]
+    },
+    {
+      "company": "Mobile IT Force",
+      "position": "IT Intern",
+      "website": "https://mobileitforce.com/",
+      "startDate": "2022/5",
+      "endDate": "Present",
+      "summary": "IT Intern",
+      "highlights": [
+        "Maintain Lanakila Heath Center's network of ~30 computers."
+      ]
+    },
+    {
       "company": "University of Hawaii at Manoa",
       "position": "Web Developer",
-      "website": "",
+      "website": "https://www.manoanow.org/",
       "startDate": "2022/3/3",
       "endDate": "Present",
       "summary": "Manoa Now - Web Developer",
@@ -122,9 +149,9 @@
     {
       "company": "Evercast Ventures",
       "position": "Mobile App Design & Development Intern",
-      "website": "",
+      "website": "https://evercast.life/",
       "startDate": "2022/1/3",
-      "endDate": "2022/5/",
+      "endDate": "2022/5/31",
       "summary": "Mobile App Design & Development Intern",
       "highlights": [
         "Implement designs to the minimum viable product mobile application using Flutter and Firebase.",
@@ -139,11 +166,11 @@
       "endDate": "Present",
       "summary": "Pharmacy Technician at CVS Moiliili",
       "highlights": [
-        "Sort pills",
-        "create labels",
-        "Greet customers",
-        "Ring up purchases",
-        "Operate drive-thru window"
+        "Operate the cash register (in-store and drive-thru) and ring up customer purchases.",
+        "Answer customer questions via telephone and in-person.",
+        "Process prescription orders for customers and collect payment.",
+        "Contact insurance carriers as needed to resolve issues with orders.",
+        "Accurately track inventory levels within the pharmacy."
       ]
     },
     {
@@ -179,11 +206,10 @@
       "position": "Vice-Chairperson",
       "startDate": "2021",
       "endDate": "2022",
-      "summary": "Vice-chairperson for Pacific Asia Travel Association",
+      "summary": "",
       "highlights": [
-        "Assist the Chairperson in execution of his/her duties.",
-        "Help officers on help planning for the school year.",
-        "Present for recruitment during the first weeks of the semester."
+        "Served as Vice-chairperson for Pacific Asia Travel Association for Fall 2021",
+        "Served as Chairperson for Pacific Asia Travel Association for Spring 2022"
       ]
     },
     {
