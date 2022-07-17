@@ -14,7 +14,7 @@ labels:
 summary: A baseball game that me and my brother developed in high school.
 ---
 
-<img class="ui medium right floated rounded image" src="../img/projects/baseball_derby/baseball.png">
+<img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">
 
 ## Overview
 

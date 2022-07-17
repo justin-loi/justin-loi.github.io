@@ -14,7 +14,7 @@ labels:
 summary: A web application developed by my team and I to connect students with companies.   
 ---
 
-<img class="ui right floated rounded image" src="../img/projects/bowedin/bowedin.png">
+<img class="img-fluid" src="../img/projects/bowedin/bowedin.png">
 
 ## Overview
 
