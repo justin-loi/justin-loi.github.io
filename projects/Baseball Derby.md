@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/baseball.png
+image: /img/projects/baseball_derby/baseball.png
 title: Baseball Derby
 permalink: projects/baseball-derby
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: A baseball game that me and my brother developed in high school.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/baseball.png">
+<img class="ui medium right floated rounded image" src="../img/projects/baseball_derby/baseball.png">
 
 ## Overview
 

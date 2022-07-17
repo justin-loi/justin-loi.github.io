@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bowedin-cover.png
+image: img/projects/bowedin/bowedin-cover.png
 title: BowedIn
 permalink: projects/bowed-in
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: A web application developed by my team and I to connect students with companies.   
 ---
 
-<img class="ui right floated rounded image" src="../images/bowedin.png">
+<img class="ui right floated rounded image" src="../img/projects/bowedin/bowedin.png">
 
 ## Overview
 
