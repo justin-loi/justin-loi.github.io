@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/projects/baseball_derby/baseball.png
+image: img/projects/baseball_derby/baseball.png
 title: Baseball Derby
 permalink: projects/baseball-derby
 # All dates must be YYYY-MM-DD format!
