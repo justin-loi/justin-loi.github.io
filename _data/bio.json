@@ -90,6 +90,7 @@
         "ICS 332: Operating Systems",
         "ICS 390: Computing Ethics for LAs",
         "ICS 414: Software Engineering II",
+        "ICS 438: Big Data Analytics",
         "ICS 451: Data Networks",
         "ICS 496: Capstone Project"
       ]
@@ -115,22 +116,12 @@
       "position": "Software Engineering Intern",
       "website": "https://www.decisionresearch.com/",
       "startDate": "2022/6/7",
-      "endDate": "2022/8/5",
+      "endDate": "Present",
       "summary": "Software Engineering Intern",
       "highlights": [
-        "Upgrade jQuery library to its latest version on their various web solutions and server.",
+        "Upgrade jQuery library to version 3.6.0 on 7 web portals that is available to its enterprise customers.",
+        "Refactor in-house and third-party plugins to ensure compatibility with jQuery 3.6.0.",
         "Use Quality Assurance scripts to ensure functionality is maintained."
-      ]
-    },
-    {
-      "company": "Mobile IT Force",
-      "position": "IT Intern",
-      "website": "https://mobileitforce.com/",
-      "startDate": "2022/5",
-      "endDate": "Present",
-      "summary": "IT Intern",
-      "highlights": [
-        "Maintain Lanakila Heath Center's network of ~30 computers."
       ]
     },
     {
@@ -141,9 +132,22 @@
       "endDate": "Present",
       "summary": "Manoa Now - Web Developer",
       "highlights": [
-        "Assist with developing and maintaining the Manoa Now websites and mobile applications for UH Student Media.",
-        "Maintain close communication with the marketing & sales team to design online solutions and campaigns for clients and to ensure a smooth implementation of web products.",
-        "Assist with production requests, design elements, content management and various other digital duties as applicable."
+        "Lead the development and maintenance of the student resource mobile application (ManoaNow).",
+        "Maintain Manoa Now and its 4 children organization’s BLOX Content Management System-hosted website.",
+        "Implement production requests for Manoa Now’s administration portal web application."
+      ]
+    },
+    {
+      "company": "Mobile IT Force",
+      "position": "IT Intern",
+      "website": "https://mobileitforce.com/",
+      "startDate": "2022/5",
+      "endDate": "2022/9",
+      "summary": "IT Intern",
+      "highlights": [
+        "Maintained Lanakila Health Center’s network of 30 Windows 7/10 computers.",
+        "Facilitated the configuration and installation of Lanakila Health Center’s network of 30 Windows 11 computers.",
+        "Troubleshot software, hardware, and networking issues."
       ]
     },
     {
@@ -154,8 +158,8 @@
       "endDate": "2022/5/31",
       "summary": "Mobile App Design & Development Intern",
       "highlights": [
-        "Implement designs to the minimum viable product mobile application using Flutter and Firebase.",
-        "Contribute feedback about the design of the minimum viable product’s user interface."
+        "Implemented user interface designs from Figma to the minimum viable product (MVP) mobile application.",
+        "Contributed feedback about the design of the minimum viable product’s user interface."
       ]
     },
     {
@@ -189,15 +193,16 @@
   ],
   "volunteer": [
     {
-      "organization": "ACManoa",
+      "organization": "University of Hawaii at Manoa's student ACM Chapter (ACManoa)",
       "website": "",
-      "position": "Member",
-      "startDate": "2019",
+      "position": "Finance and Personnel Officer",
+      "startDate": "2022/9",
       "endDate": "Present",
-      "summary": "Member of ACM at University of Hawaii at Manoa",
+      "summary": "",
       "highlights": [
-        "Attend Grey hats and PANDAs workshops",
-        "Network with other Computer Science major peers"
+        "Responsible for ACManoa’s bank account and yearly tax filings",
+        "Divide $3,000 budget across 6 different organizations totaling over 245 club members",
+        "Prepare materials for end-of-semester presentation and report about ACManoa’s activities"
       ]
     },
     {
@@ -220,8 +225,8 @@
       "endDate": "2021",
       "summary": "Assisting Teaching Assistant for the course ICS 111: Introduction to Computer Science I for Fall 2021",
       "highlights": [
-        "Assisted students with questions regarding homework and course material during recitation class and open hours",
-        "Led recitation class"
+        "Provided help in conjunction with the Teaching Assistant for 60 ICS 111 students during weekly lab sessions",
+        "Hosted office hours in 3 hour intervals to provide extra assistance on an individual basisAssisted students with questions regarding homework and course material during recitation class and open hours"
       ]
     }
   ],
@@ -230,7 +235,7 @@
       "title": "University of Hawaii at Manoa Dean's List",
       "date": "",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded during the semesters: Fall 2019, Spring 2020, Fall 2020, Spring 2021, Spring 2022"
+      "summary": "Awarded during the semesters: Fall 2019, Spring 2020, Fall 2020, Spring 2021, Spring 2022, Fall 2022"
     },
     {
       "title": "Fukunaga Scholarship Foundation",
