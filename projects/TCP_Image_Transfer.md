@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/projects/baseball_derby/baseball.png
-title: Baseball Derby
-permalink: projects/baseball-derby
+title: TCP Image Transfer
+permalink: projects/tcp-image-transfer
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-28
 labels:
