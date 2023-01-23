@@ -18,7 +18,7 @@ summary: A web application developed by my team and I to connect students with c
 
 ## Overview
 
-BowedIn is a web application designed to enable University of Hawaii students to connect with employers (fulltime and internships) easier. Allowing only University of Hawaii students and companies sign up and sign in, students are able to find avialable opportunities and connect the respective company. Either role is able to add interested positions or potential candidates (students and company, respectively) onto their respective home page. Finally, administrators are able to monitor the content posted on BowedIn. 
+BowedIn is a web application designed to enable University of Hawaii students to connect with employers (fulltime and internships) easier. Allowing only University of Hawaii students and companies sign up and sign in, students are able to find available opportunities and connect the respective company. Either role is able to add interested positions or potential candidates (students and company, respectively) onto their respective home page. Finally, administrators are able to monitor the content posted on BowedIn. 
 
 ## Contributions
 
