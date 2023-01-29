@@ -5,7 +5,7 @@ image: img/projects/movie/home.png
 title: Movie Recommender System
 permalink: projects/movie-recommender-system
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-28
+date: December 2022
 labels:
   - Python
   - Jupyter Notebook

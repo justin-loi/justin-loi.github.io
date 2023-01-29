@@ -5,7 +5,7 @@ image: img/projects/baseball_derby/baseball.png
 title: Baseball Derby
 permalink: projects/baseball-derby
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-28
+date: April 2017
 labels:
   - C++
   - Microsoft Visual Studio

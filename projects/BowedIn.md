@@ -5,7 +5,7 @@ image: img/projects/bowedin/bowedin-cover.png
 title: BowedIn
 permalink: projects/bowed-in
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-12
+date: May 2021
 labels:
   - Javascript
   - React 

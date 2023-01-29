@@ -5,7 +5,7 @@ image: img/projects/image-transfer/thumbnail.png
 title: TCP Image Transfer
 permalink: projects/tcp-image-transfer
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-28
+date: November 2021
 labels:
   - C
   - VIM

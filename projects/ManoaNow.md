@@ -5,7 +5,7 @@ image: img/projects/manoanow/thumbnail.png
 title: Manoa Now
 permalink: projects/manoa-now
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-28
+date: March 2022 - Present
 labels:
   - React Native
   - Android Studio

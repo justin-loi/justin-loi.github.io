@@ -5,7 +5,7 @@ image: img/projects/volunteerally/home.png
 title: VolunteerAlly
 permalink: projects/volunteer-ally
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-28
+date: January 2022 - May 2022
 labels:
   - Javascript
   - React
