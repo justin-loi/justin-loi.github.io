@@ -10,7 +10,7 @@ labels:
   - Python
   - Jupyter Notebook
   - Data Analytics
-summary: A Data Analytics project to recommend movies using content-based filtering and collaborative filtering; my team of 3's final project for ICS 438: Big Data Analytics.
+summary: A Data Analytics project to recommend movies using content-based filtering and collaborative filtering; my team of 3's final project for Big Data Analytics.
 ---
 
 <img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">

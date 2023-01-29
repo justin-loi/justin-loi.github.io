@@ -11,7 +11,7 @@ labels:
   - React
   - Meteor 
   - IntelliJ
-summary: A web application to facilitate a local non-profit's daily operations; my team of 7's project for ICS 414: Software Engineering II.
+summary: A web application to facilitate a local non-profit's daily operations; my team of 7's project for Software Engineering II.
 ---
 
 <img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">
