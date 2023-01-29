@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: img/projects/baseball_derby/baseball.png
+image: img/projects/manoanow/HomeScreen.PNG
 title: Manoa Now
 permalink: projects/manoa-now
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-28
 labels:
-  - C++
-  - Teamwork
-  - Programming
-  - Game Development
-summary: A baseball game that me and my brother developed in high school.
+  - React Native
+  - Android Studio
+  - Mobile App Development
+summary: A mobile application that UHM students can use for resources.
 ---
 
 <img class="img-fluid" src="../img/projects/manoanow/HomeScreen.PNG">

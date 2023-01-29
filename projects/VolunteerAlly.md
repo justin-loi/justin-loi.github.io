@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: img/projects/baseball_derby/baseball.png
+image: img/projects/volunteerally/home.png
 title: VolunteerAlly
 permalink: projects/volunteer-ally
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-28
 labels:
-  - C++
-  - Teamwork
-  - Programming
-  - Game Development
-summary: A baseball game that me and my brother developed in high school.
+  - Javascript
+  - React
+  - Meteor 
+  - IntelliJ
+summary: A web application to facilitate a local non-profit's daily operations; my team of 7's project for ICS 414: Software Engineering II.
 ---
 
 <img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">

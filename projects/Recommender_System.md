@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: img/projects/baseball_derby/baseball.png
+image: img/projects/movie/home.png
 title: Movie Recommender System
 permalink: projects/movie-recommender-system
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-28
 labels:
-  - C++
-  - Teamwork
-  - Programming
-  - Game Development
-summary: A baseball game that me and my brother developed in high school.
+  - Python
+  - Jupyter Notebook
+  - Data Analytics
+summary: A Data Analytics project to recommend movies using content-based filtering and collaborative filtering; my team of 3's final project for ICS 438: Big Data Analytics.
 ---
 
 <img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">

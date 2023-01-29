@@ -7,11 +7,11 @@ permalink: projects/bowed-in
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-12
 labels:
-  - Software Engineering
-  - Teamwork
-  - Semantic UI React
-  - MongoDB
-summary: A web application developed by my team and I to connect students with companies.   
+  - Javascript
+  - React 
+  - Meteor
+  - IntelliJ
+summary: A web application to connect students with companies; my team of 4's final project for ICS 314: Software Engineering I.   
 ---
 
 <img class="img-fluid" src="../img/projects/bowedin/bowedin.png">

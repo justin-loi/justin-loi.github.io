@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: img/projects/baseball_derby/baseball.png
+image: img/projects/image-transfer/tcp.png
 title: TCP Image Transfer
 permalink: projects/tcp-image-transfer
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-28
 labels:
-  - C++
-  - Teamwork
-  - Programming
-  - Game Development
-summary: A baseball game that me and my brother developed in high school.
+  - C
+  - VIM
+  - Networking
+summary: A C program to transfer an image from different directories.
 ---
 
 <img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">

@@ -8,10 +8,9 @@ permalink: projects/baseball-derby
 date: 2017-04-28
 labels:
   - C++
-  - Teamwork
-  - Programming
+  - Microsoft Visual Studio
   - Game Development
-summary: A baseball game that me and my brother developed in high school.
+summary: A baseball game that me and my brother developed in high school for AP Computer Science Principles.
 ---
 
 <img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">
