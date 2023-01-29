@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/manoanow/HomeScreen.PNG
+image: img/projects/manoanow/thumbnail.png
 title: Manoa Now
 permalink: projects/manoa-now
 # All dates must be YYYY-MM-DD format!
