@@ -14,7 +14,7 @@ labels:
 summary: A web application to facilitate a local non-profit's daily operations; my team of 7's project for Software Engineering II.
 ---
 
-<img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">
+<img class="img-fluid" src="../img/projects/volunteerally/home.png">
 
 ## Overview
 
@@ -23,6 +23,9 @@ The Web Application VolunteerAlly was a minimum viable product (MVP) to help a l
 ## Contributions
 
 I would describe my primary role as the all-rounder contributing to both the UI/UX and back-end designs. Specifically, I helped lay out how the various collections would be pooled together to display on the respective pages. This is what led me to also design how each opportunity's info page would look. Additionally, I implement the search bar and direct message features.
+
+<img class="img-fluid" src="../img/projects/volunteerally/sending_msg.png">
+<img class="img-fluid" src="../img/projects/volunteerally/receiving_msg.png">
 
 ## The Experience
 
