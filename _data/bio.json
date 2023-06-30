@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Justin Loi",
-    "label": "Student",
+    "label": "Recent Graduate",
     "picture": "https://justin-loi.github.io/img/profile/profile_picture.jpg",
     "email": "jmloi@hawaii.edu",
-    "phone": "808-392-1289",
     "summary": "I am studying for a B.S. in Computer Science and minoring in Business at the University of Hawaii. I am currently exploring the different fields of CS and expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
@@ -74,7 +73,10 @@
         "Windows 10",
         "Windows 7",
         "Git/Github",
-        "IntelliJ IDEA"
+        "IntelliJ IDEA",
+        "AWS",
+        "Kubernetes",
+        "Docker"
       ]
     }
   ],
@@ -84,8 +86,8 @@
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2019",
-      "endDate": "Present",
-      "gpa": "3.99",
+      "endDate": "2023",
+      "gpa": "3.98",
       "courses": [
         "ICS 311: Algorithms",
         "ICS 312: Machine-Level and Systems Programming",
@@ -94,9 +96,12 @@
         "ICS 332: Operating Systems",
         "ICS 390: Computing Ethics for LAs",
         "ICS 414: Software Engineering II",
+        "ICS 427: Software Quality Assurance",
         "ICS 438: Big Data Analytics",
         "ICS 451: Data Networks",
-        "ICS 496: Capstone Project"
+        "ICS 496: Capstone Project",
+        "ENGR 401: Engineering Management",
+        "EE 491F: Software Reverse Engineering"
       ]
     },
     {
@@ -105,7 +110,7 @@
       "studyType": "Minor",
       "startDate": "2019",
       "endDate": "Present",
-      "gpa": "3.99",
+      "gpa": "4.00",
       "courses": [
         "BUS 310: Statistic Analysis for Business Decisions",
         "BUS 311: Information Systems for Global Business Environment",
@@ -116,24 +121,38 @@
   ],
   "work": [
     {
+      "company": "RVCM",
+      "position": "DevSecOps Intern",
+      "website": "https://www.rvcm.com/",
+      "startDate": "2023/5/30",
+      "endDate": "Present",
+      "summary": "DevSecOps Intern",
+      "highlights": [
+        "Shadow and support Technical Advisors in customer meetings.",
+        "Shadow and support troubleshooting features / configurations.",
+        "Create a CI/CD template for Python programs using k3d and AWS."
+      ]
+    },
+    {
       "company": "Decision Research Corporation",
       "position": "Software Engineering Intern",
       "website": "https://www.decisionresearch.com/",
       "startDate": "2022/6/7",
-      "endDate": "Present",
+      "endDate": "2023/5/19",
       "summary": "Software Engineering Intern",
       "highlights": [
         "Upgrade jQuery library to version 3.6.0 on 7 web portals that is available to its enterprise customers.",
         "Refactor in-house and third-party plugins to ensure compatibility with jQuery 3.6.0.",
-        "Use Quality Assurance scripts to ensure functionality is maintained."
+        "Utilize Azure DevOps Function Apps to auto-tag new VMs.",
+        "Write a Azure Powershell script to spin up or down VMs based on its tags."
       ]
     },
     {
       "company": "University of Hawaii at Manoa",
-      "position": "Web Developer",
+      "position": "Web/Mobile App Developer",
       "website": "https://www.manoanow.org/",
       "startDate": "2022/3/3",
-      "endDate": "Present",
+      "endDate": "2023/5/12",
       "summary": "Manoa Now - Web Developer",
       "highlights": [
         "Lead the development and maintenance of the student resource mobile application (ManoaNow).",
@@ -239,7 +258,7 @@
       "title": "University of Hawaii at Manoa Dean's List",
       "date": "",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded during the semesters: Fall 2019, Spring 2020, Fall 2020, Spring 2021, Spring 2022, Fall 2022"
+      "summary": "Awarded during the semesters: Fall 2019, Spring 2020, Fall 2020, Spring 2021, Spring 2022, Fall 2022, Spring 2023"
     },
     {
       "title": "Fukunaga Scholarship Foundation",
