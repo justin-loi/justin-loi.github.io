@@ -27,7 +27,12 @@
   },
   "interests": [
     {
-      "name": "Web and Software Development",
+      "name": "DevOps",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Development",
       "keywords": [
         "Mobile App Development",
         "FinTech",
@@ -36,16 +41,6 @@
     },
     {
       "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Networking",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Data Analytics",
       "keywords": [
       ]
     }
@@ -57,33 +52,49 @@
       "keywords": [
         "C",
         "C++",
+        "HTML/CSS",
+        "Flutter",
         "Java",
         "Javascript",
-        "Meteor (React)",
-        "MongoDB",
-        "Semantic UI",
-        "(Familiar with) SQL"
+        "Python",
+        "Shell Scripting",
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks and Libraries",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Windows 10",
-        "Windows 7",
-        "Git/Github",
-        "IntelliJ IDEA",
+        "jQuery",
+        "Meteor",
+        "MongoDB",
+        "Node.js",
+        "React (Native)"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "",
+      "keywords": [
         "AWS",
+        "Azure DevOps",
+        "Docker",
+        "Git/Github",
         "Kubernetes",
-        "Docker"
+        "Active Directory",
+        "Firebase",
+        "Anaconda",
+        "IntelliJ",
+        "Android Studio",
+        "VirtualBox",
+        "VS Code"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2019",
       "endDate": "2023",
@@ -106,10 +117,10 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Business (expected Spring, 2023)",
+      "area": "Business",
       "studyType": "Minor",
       "startDate": "2019",
-      "endDate": "Present",
+      "endDate": "2023",
       "gpa": "4.00",
       "courses": [
         "BUS 310: Statistic Analysis for Business Decisions",
@@ -120,6 +131,19 @@
     }
   ],
   "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Software Engineer for Cybersecurity Grant",
+      "website": "",
+      "startDate": "2023/07/03",
+      "endDate": "Present",
+      "summary": "Software Engineer doing analysis on vulnerabilities",
+      "highlights": [
+        "Shadow and support Technical Advisors in customer meetings.",
+        "Shadow and support troubleshooting features / configurations.",
+        "Create a CI/CD template for Python programs using k3d and AWS."
+      ]
+    },
     {
       "company": "RVCM",
       "position": "DevSecOps Intern",
@@ -220,7 +244,7 @@
       "website": "",
       "position": "Finance and Personnel Officer",
       "startDate": "2022/9",
-      "endDate": "Present",
+      "endDate": "2023/5",
       "summary": "",
       "highlights": [
         "Responsible for ACManoa’s bank account and yearly tax filings",
