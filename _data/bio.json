@@ -14,11 +14,6 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "justin-loi",
-        "url": "https://github.com/justin-loi"
-      },
-      {
         "network": "linkedin",
         "username": "justin-loi",
         "url": "https://www.linkedin.com/in/justin-loi/"
