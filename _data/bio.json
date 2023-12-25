@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "",
+      "name": "Data Science",
       "keywords": [
         "Big Data Analytics",
         "Machine Learning"
@@ -102,7 +102,7 @@
       "gpa": "3.98",
       "courses": [
         "Funadementals: Algorithms, Machine-Level and Systems Programming, Operating Systems, Data Networks, Software Engineering II",
-        "Cybersecurity: Software Reverse Engineering, Software Quality Assurance", 
+        "Cybersecurity: Software Reverse Engineering, Software Quality Assurance",
         "Data Science: Big Data Analytics",
         "Project Management: Engineering Management"
       ]
