@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Justin Loi",
-    "label": "Recent Graduate",
+    "label": "DevSecOps Engineer",
     "picture": "https://justin-loi.github.io/img/profile/profile_picture.jpg",
-    "email": "jmloi@hawaii.edu",
-    "summary": "I am studying for a B.S. in Computer Science and minoring in Business at the University of Hawaii. I am currently exploring the different fields of CS and expect to graduate in Spring, 2023.",
+    "email": "justinmancloi@gmail.com",
+    "summary": "I am a recent graduate, holding a BS in Computer Science and a minor in Business Administration. Committed to continuous learning and innovation, I possess a diverse skill set and experiences in software engineering, machine learning/artificial intelligence, and DevOps. Notably, I excel in effectively communicating with cross-functional teams and customers to ensure seamless collaboration and project success.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -29,6 +29,8 @@
     {
       "name": "DevOps",
       "keywords": [
+        "AWS",
+        "CI/CD Pipeline"
       ]
     },
     {
@@ -40,8 +42,10 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "",
       "keywords": [
+        "Big Data Analytics",
+        "Machine Learning"
       ]
     }
   ],
@@ -58,7 +62,8 @@
         "Javascript",
         "Python",
         "Shell Scripting",
-        "SQL"
+        "SQL",
+        "Terraform"
       ]
     },
     {
@@ -81,6 +86,7 @@
         "Docker",
         "Git/Github",
         "Kubernetes",
+        "k9s",
         "Active Directory",
         "Firebase",
         "Anaconda",
@@ -100,19 +106,10 @@
       "endDate": "2023",
       "gpa": "3.98",
       "courses": [
-        "ICS 311: Algorithms",
-        "ICS 312: Machine-Level and Systems Programming",
-        "ICS 314: Software Engineering",
-        "ICS 321: Database Systems",
-        "ICS 332: Operating Systems",
-        "ICS 390: Computing Ethics for LAs",
-        "ICS 414: Software Engineering II",
-        "ICS 427: Software Quality Assurance",
-        "ICS 438: Big Data Analytics",
-        "ICS 451: Data Networks",
-        "ICS 496: Capstone Project",
-        "ENGR 401: Engineering Management",
-        "EE 491F: Software Reverse Engineering"
+        "Funadementals: Algorithms, Machine-Level and Systems Programming, Operating Systems, Data Networks, Software Engineering II",
+        "Cybersecurity: Software Reverse Engineering, Software Quality Assurance", 
+        "Data Science: Big Data Analytics",
+        "Project Management: Engineering Management"
       ]
     },
     {
@@ -132,29 +129,29 @@
   ],
   "work": [
     {
-      "company": "University of Hawaii at Manoa",
-      "position": "Software Engineer for Cybersecurity Grant",
-      "website": "",
-      "startDate": "2023/07/03",
-      "endDate": "Present",
-      "summary": "Software Engineer doing analysis on vulnerabilities",
-      "highlights": [
-        "Shadow and support Technical Advisors in customer meetings.",
-        "Shadow and support troubleshooting features / configurations.",
-        "Create a CI/CD template for Python programs using k3d and AWS."
-      ]
-    },
-    {
       "company": "RVCM",
-      "position": "DevSecOps Intern",
+      "position": "DevSecOps Engineer I",
       "website": "https://www.rvcm.com/",
       "startDate": "2023/5/30",
       "endDate": "Present",
       "summary": "DevSecOps Intern",
       "highlights": [
-        "Shadow and support Technical Advisors in customer meetings.",
-        "Shadow and support troubleshooting features / configurations.",
-        "Create a CI/CD template for Python programs using k3d and AWS."
+        "Manage customer AWS EKS clusters efficiently using Docker, ArgoCD, Kubernetes, k9s, and Terragrunt, ensuring seamless deployment and operations.",
+        "Develop Terraform Modules to introduce new features tailored to customer requirements, enhancing system functionalities and meeting client needs.",
+        "Automate customer deployments by creating robust pipelines, streamlining processes, and adhering to specific project specifications."
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Post-Baccalaureate Researcher - Machine Learning",
+      "website": "",
+      "startDate": "2023/07/03",
+      "endDate": "Present",
+      "summary": "Software Engineer doing analysis on vulnerabilities",
+      "highlights": [
+        "Developed predictive models using MediaPipe’s Text Embedding and Sentence2Vec to assess vulnerabilities’ impact on integrity, confidentiality, and automability.",
+        "Applied machine learning techniques to predict the mapping of Common Vulnerabilities and Exposures (CVE) to Common Weakness Enumerations (CWE).",
+        "Conducted in-depth analysis and evaluation of Text Embedding and Sentence2Vec models for vulnerability assessment, contributing to the advancement of cybersecurity methodologies."
       ]
     },
     {
@@ -165,10 +162,9 @@
       "endDate": "2023/5/19",
       "summary": "Software Engineering Intern",
       "highlights": [
-        "Upgrade jQuery library to version 3.6.0 on 7 web portals that is available to its enterprise customers.",
-        "Refactor in-house and third-party plugins to ensure compatibility with jQuery 3.6.0.",
-        "Utilize Azure DevOps Function Apps to auto-tag new VMs.",
-        "Write a Azure Powershell script to spin up or down VMs based on its tags."
+        "Developed an Azure PowerShell script to optimize VM provisioning and resource management based on assigned tags, leveraging Azure DevOps Function App to auto-tag new VMs efficiently.",
+        "Spearheaded the successful upgrade of jQuery library to version 3.6.0 on 7 web portal, resulting in improved portals’ security and performance.",
+        "Demonstrated problem-solving skills by refactoring both in-house and third-party plugins, ensuring full compatibility with jQuery 3.6.0."
       ]
     },
     {
@@ -179,9 +175,9 @@
       "endDate": "2023/5/12",
       "summary": "Manoa Now - Web Developer",
       "highlights": [
-        "Lead the development and maintenance of the student resource mobile application (ManoaNow).",
-        "Maintain Manoa Now and its 4 children organization’s BLOX Content Management System-hosted website.",
-        "Implement production requests for Manoa Now’s administration portal web application."
+        "Enhanced the student resource mobile application ”ManoaNow” with over 1,000 downloads, actively enhancing its features and functionality to ensure a seamless user experience.",
+        "Managed Manoa Now and its 4 associated organizations’ BLOX Content Management System-hosted website, ensuring smooth functionality and up-to-date content.",
+        "Handled passwords and credentials management and provided troubleshooting assistance to staff members."
       ]
     },
     {
