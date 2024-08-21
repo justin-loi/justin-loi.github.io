@@ -48,13 +48,6 @@ summary: |
 ## Visuals
 - Visuals to Come
 
-<!--
-- ![Pipeline Diagram](URL_to_Screenshot1)  
-  *Pipeline architecture and deployment flow.*
-- ![Application Screenshot](URL_to_Screenshot2)  
-  *Web application interface and functionality.*
--->
-
 ## Code & Documentation
 - [GitHub Repository](https://github.com/justin-loi/hello-world-python-devops)  
 
