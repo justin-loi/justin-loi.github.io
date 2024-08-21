@@ -25,8 +25,9 @@
       {
         "name": "DevOps",
         "keywords": [
-          "AWS",
-          "CI/CD Pipeline"
+          "Pipelines",
+          "Infrastructure",
+          "Networking"
         ]
       },
       {
@@ -83,12 +84,7 @@
           "Git/Github",
           "Kubernetes",
           "Active Directory",
-          "Firebase",
-          "Anaconda",
-          "IntelliJ",
-          "Android Studio",
-          "VirtualBox",
-          "VS Code"
+          "Firebase"
         ]
       }
     ],
