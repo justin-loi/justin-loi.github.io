@@ -1,54 +1,61 @@
 ---
 layout: project
 type: project
-image: img/projects/baseball_derby/baseball.png
-title: Baseball Derby
-permalink: projects/baseball-derby
-# All dates must be YYYY-MM-DD format!
-date: April 2017
+image: img/projects/hello_world_devops/hello_world.png
+title: Hello World Python DevOps Edition
+permalink: projects/hello-world-python-devops-edition
+# All dates must be in YYYY-MM-DD format!
+date: 2023-05-30
 labels:
-  - C++
-  - Microsoft Visual Studio
-  - Game Development
-summary: A baseball game that me and my brother developed in high school for AP Computer Science Principles.
+  - Python
+  - DevOps
+  - Docker
+  - AWS
+  - GitLab CI/CD
+summary: |
+  Hello World Python DevOps Edition is a side project from my RVCM internship designed to provide a comprehensive understanding of DevOps practices.
+
 ---
 
-<img class="img-fluid" src="../img/projects/baseball_derby/baseball.png">
-
-# **Task Manager App**
+# **Hello World Python DevOps Edition**
 
 ## Overview
-A web-based task management application designed to help users organize their tasks and increase productivity. Features include task prioritization, deadlines, and notifications.
+"Hello World Python DevOps Edition" is a side project undertaken during my RVCM internship. This project was designed to provide a comprehensive yet simplified understanding of the team's DevOps practices. It involved automating the deployment of a Python application to streamline and enhance the development workflow.
 
 ## Your Role & Responsibilities
-**Lead Developer:** Designed and implemented the frontend using React and integrated it with a backend API developed in Node.js.
+**Role:** Learner
+
+**Responsibilities:**
+- **Automation:** Fully automated the deployment process for a Python web application.
+- **Pipeline Creation:** Developed a pipeline to containerize the application, perform linting scans, and handle deployment.
+- **Infrastructure Setup:** Established the necessary infrastructure using AWS and Terraform to support the application.
 
 ## Technologies Used
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React, Express.js
-- **Tools:** GitHub, Docker, AWS
+- **Languages:** Python
+- **Tools:** 
+  - **Containerization & Orchestration:** Docker, Kubernetes (k3d)
+  - **Cloud Services:** AWS
+  - **CI/CD:** GitLab CI/CD
 
 ## Challenges & Solutions
-- **Challenge:** Ensuring real-time updates across multiple users.
-- **Solution:** Implemented WebSockets for real-time communication and used Redis for message brokering.
+- **Challenge:** Gaining proficiency in DevOps practices, which was a new area for me.
+- **Solution:** Utilized mentorship, online learning platforms (Udemy, YouTube), and achieved relevant certifications to overcome the learning curve.
 
 ## Results & Impact
-- **Outcome:** Improved task management efficiency for users by 30%.
-- **Metric:** Increased user engagement by 40% within the first three months of launch.
+- **Outcome:** Successfully created a complete end-to-end pipeline from code commit to deployment.
+- **Metric:** Acquired a solid understanding of DevOps practices, leading to a job offer after the internship.
 
-## Visuals & Media
-- ![Screenshot 1](URL_to_Screenshot1)
-- ![Screenshot 2](URL_to_Screenshot2)
-- [Video Demo](URL_to_Video_Demo)
-
+## Visuals
+- Visuals to Come
+<!--
+- ![Pipeline Diagram](URL_to_Screenshot1)  
+  *Pipeline architecture and deployment flow.*
+- ![Application Screenshot](URL_to_Screenshot2)  
+  *Web application interface and functionality.*
+-->
 ## Code & Documentation
-- [GitHub Repository](URL_to_GitHub_Repository)
-- [Project Documentation](URL_to_Project_Documentation)
-- [Live Demo](URL_to_Live_Demo)
-
-## User Experience
-**User Story:** “The app has helped me keep track of my daily tasks more efficiently, and the real-time updates feature is a game-changer for my team.”
+- [GitHub Repository](URL_to_GitHub_Repository)  
+  *Explore the source code and project documentation.*
 
 ## Project Development
-- **Timeline:** Completed in 6 months with major milestones including the MVP launch and user feedback iteration.
-- **Team:** Collaborated with a UI/UX designer and a backend developer.
+- **Timeline:** Completed over a period of 3 months. Key milestones included manual deployment processes followed by automation and pipeline integration.
