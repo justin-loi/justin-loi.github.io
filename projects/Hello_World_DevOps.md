@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/projects/hello_world_devops/hello_world.png
+image: img/projects/hello_world/aws+kubernetes.png
 title: Hello World Python DevOps Edition
 permalink: projects/hello-world-python-devops-edition
 # All dates must be in YYYY-MM-DD format!
 date: May 2023
 labels:
-  - Python
   - DevOps
+  - Python
   - Docker
   - AWS
   - GitLab CI/CD
