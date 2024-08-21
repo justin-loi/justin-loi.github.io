@@ -1,118 +1,293 @@
 {
-  "basics": {
-    "name": "Justin",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+    "basics": {
+      "name": "Justin Loi",
+      "label": "DevSecOps Engineer",
+      "picture": "https://justin-loi.github.io/img/profile/profile_picture.jpg",
+      "email": "justinmancloi@gmail.com",
+      "summary": "I am a recent graduate, holding a BS in Computer Science and a minor in Business Administration. Committed to continuous learning and innovation, I possess a diverse skill set and experiences in software engineering, machine learning/artificial intelligence, and DevOps. Notably, I excel in effectively communicating with cross-functional teams and customers to ensure seamless collaboration and project success.",
+      "location": {
+        "address": "",
+        "postalCode": "96816",
+        "city": "Honolulu",
+        "countryCode": "USA",
+        "region": "Hawaii"
+      },
+      "profiles": [
+        {
+          "network": "linkedin",
+          "username": "justin-loi",
+          "url": "https://www.linkedin.com/in/justin-loi/"
+        },
+        { "network": "github", "username": "justin-loi", "url": "https://github.com/justin-loi" }
+      ]
+    },
+    "interests": [
+      {
+        "name": "DevOps",
+        "keywords": [
+          "AWS",
+          "CI/CD Pipeline"
+        ]
+      },
+      {
+        "name": "Software Development",
+        "keywords": [
+          "Mobile App Development",
+          "FinTech",
+          "Web Development"
+        ]
+      },
+      {
+        "name": "Data Science",
+        "keywords": [
+          "Big Data Analytics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages and Frameworks",
+        "level": "",
+        "keywords": [
+          "C",
+          "C++",
+          "HTML/CSS",
+          "Flutter",
+          "Java",
+          "Javascript",
+          "Python",
+          "Shell Scripting",
+          "SQL",
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Frameworks and Libraries",
+        "level": "",
+        "keywords": [
+          "jQuery",
+          "Meteor",
+          "MongoDB",
+          "Node.js",
+          "React (Native)"
+        ]
+      },
+      {
+        "name": "Developer Tools",
+        "level": "",
+        "keywords": [
+          "AWS",
+          "Azure DevOps",
+          "Docker",
+          "Git/Github",
+          "Kubernetes",
+          "k9s",
+          "Active Directory",
+          "Firebase",
+          "Anaconda",
+          "IntelliJ",
+          "Android Studio",
+          "VirtualBox",
+          "VS Code"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Hawaii, Honolulu, HI",
+        "area": "Computer Science",
+        "studyType": "B.S.",
+        "startDate": "2019",
+        "endDate": "2023",
+        "gpa": "3.98",
+        "courses": [
+          "Funadementals: Algorithms, Machine-Level and Systems Programming, Operating Systems, Data Networks, Software Engineering II",
+          "Cybersecurity: Software Reverse Engineering, Software Quality Assurance",
+          "Data Science: Big Data Analytics",
+          "Project Management: Engineering Management"
+        ]
+      },
+      {
+        "institution": "University of Hawaii, Honolulu, HI",
+        "area": "Business",
+        "studyType": "Minor",
+        "startDate": "2019",
+        "endDate": "2023",
+        "gpa": "4.00",
+        "courses": [
+          "BUS 310: Statistic Analysis for Business Decisions",
+          "BUS 311: Information Systems for Global Business Environment",
+          "BUS 312: Principles of Marketing",
+          "BUS 315: Global Management and Organizational Behavior"
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "Intellibridge (formerly RVCM)",
+        "position": "DevSecOps Engineer",
+        "website": "https://intellibridge.us/",
+        "startDate": "2023/5/30",
+        "endDate": "Present",
+        "summary": "From a DevSecOps intern to a DevSecOps Engineer working with various teams in Centers for Medicare & Medicaid Services",
+        "highlights": [
+          "Managed AWS cloud infrastructure for 3 Centers for Medicare & Medicaid Services (CMS) teams, ensuring continued support using Terragrunt and Terraform modules.",
+          "Oversaw 8 AWS Elastic Kubernetes Service (EKS) clusters, optimizing cluster configurations such as Istio, ArgoCD, Flux and other configurations to ensure high availability, performance, and security across all clusters.",
+          "Enhanced operational visibility and analytics by configuring and managing Splunk, Grafana, Loki, and Prometheus, leading to a 25% reduction in incident response time and improved real-time analytics for key stakeholders.",
+          "Implemented automated solutions to address key stakeholders pain points, including monitoring additional critical services, managing changes to database schemas, and ensuring email relay compliance."
+        ]
+      },
+      {
+        "company": "University of Hawaii at Manoa",
+        "position": "Post-Baccalaureate Researcher - Machine Learning",
+        "website": "",
+        "startDate": "2023/07/03",
+        "endDate": "2023/11/28",
+        "summary": "Software Engineer doing analysis on vulnerabilities",
+        "highlights": [
+          "Developed predictive models using MediaPipe’s Text Embedding and Sentence2Vec to assess vulnerabilities’ impact on integrity, confidentiality, and automability.",
+          "Applied machine learning techniques to predict the mapping of Common Vulnerabilities and Exposures (CVE) to Common Weakness Enumerations (CWE).",
+          "Conducted in-depth analysis and evaluation of Text Embedding and Sentence2Vec models for vulnerability assessment, contributing to the advancement of cybersecurity methodologies."
+        ]
+      },
+      {
+        "company": "Decision Research Corporation",
+        "position": "Software Engineering Intern",
+        "website": "https://www.decisionresearch.com/",
+        "startDate": "2022/6/7",
+        "endDate": "2023/5/19",
+        "summary": "Software Engineering Intern",
+        "highlights": [
+          "Developed an Azure PowerShell script to optimize VM provisioning and resource management based on assigned tags, leveraging Azure DevOps Function App to auto-tag new VMs efficiently.",
+          "Spearheaded the successful upgrade of jQuery library to version 3.6.0 on 7 web portal, resulting in improved portals’ security and performance.",
+          "Demonstrated problem-solving skills by refactoring both in-house and third-party plugins, ensuring full compatibility with jQuery 3.6.0."
+        ]
+      },
+      {
+        "company": "University of Hawaii at Manoa",
+        "position": "Web/Mobile App Developer",
+        "website": "https://www.manoanow.org/",
+        "startDate": "2022/3/3",
+        "endDate": "2023/5/12",
+        "summary": "Manoa Now - Web Developer",
+        "highlights": [
+          "Enhanced the student resource mobile application ”ManoaNow” with over 1,000 downloads, actively enhancing its features and functionality to ensure a seamless user experience.",
+          "Managed Manoa Now and its 4 associated organizations’ BLOX Content Management System-hosted website, ensuring smooth functionality and up-to-date content.",
+          "Handled passwords and credentials management and provided troubleshooting assistance to staff members."
+        ]
+      },
+      {
+        "company": "Mobile IT Force",
+        "position": "Computer Support Intern",
+        "website": "https://mobileitforce.com/",
+        "startDate": "2022/5",
+        "endDate": "2022/9",
+        "summary": "Computer Support Intern",
+        "highlights": [
+          "Maintained Lanakila Health Center’s network of 30 Windows 7/10 computers.",
+          "Facilitated the configuration and installation of Lanakila Health Center’s network of 30 Windows 11 computers.",
+          "Troubleshot software, hardware, and networking issues."
+        ]
+      },
+      {
+        "company": "Evercast Ventures",
+        "position": "Mobile App Design & Development Intern",
+        "website": "https://evercast.life/",
+        "startDate": "2022/1/3",
+        "endDate": "2022/5/31",
+        "summary": "Mobile App Design & Development Intern",
+        "highlights": [
+          "Implemented user interface designs from Figma to the minimum viable product (MVP) mobile application.",
+          "Contributed feedback about the design of the minimum viable product’s user interface."
+        ]
+      },
+      {
+        "company": "CVS Health",
+        "position": "Pharmacy Technician",
+        "website": "https://www.cvs.com/",
+        "startDate": "2022/1/7",
+        "endDate": "Present",
+        "summary": "Pharmacy Technician at CVS Moiliili",
+        "highlights": [
+          "Operate the cash register (in-store and drive-thru) and ring up customer purchases.",
+          "Answer customer questions via telephone and in-person.",
+          "Process prescription orders for customers and collect payment.",
+          "Contact insurance carriers as needed to resolve issues with orders.",
+          "Accurately track inventory levels within the pharmacy."
+        ]
+      },
+      {
+        "company": "Kumon",
+        "position": "Educator",
+        "website": "https://www.kumon.com/kaimuki/",
+        "startDate": "2019",
+        "endDate": "2022/8/31",
+        "summary": "Educator at the Kumon Learning Center, located in Kaimuki.",
+        "highlights": [
+          "Collaborate with students to complete homework assignments, identify lagging skills, and correct weaknesses.",
+          "Improve test scores by focusing on reading comprehension, math, and critical thinking skills through one-on-one tutoring sessions.",
+          "Utilize different strategies to complement student's learning style."
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "University of Hawaii at Manoa's student ACM Chapter (ACManoa)",
+        "website": "",
+        "position": "Finance and Personnel Officer",
+        "startDate": "2022/9",
+        "endDate": "2023/5",
+        "summary": "",
+        "highlights": [
+          "Responsible for ACManoa’s bank account and yearly tax filings",
+          "Divide $3,000 budget across 6 different organizations totaling over 245 club members",
+          "Prepare materials for end-of-semester presentation and report about ACManoa’s activities"
+        ]
+      },
+      {
+        "organization": "Pacific Asia Travel Association",
+        "website": "",
+        "position": "Vice-Chairperson",
+        "startDate": "2021",
+        "endDate": "2022",
+        "summary": "",
+        "highlights": [
+          "Served as Vice-chairperson for Pacific Asia Travel Association for Fall 2021",
+          "Served as Chairperson for Pacific Asia Travel Association for Spring 2022"
+        ]
+      },
+      {
+        "organization": "UH Manoa ICS Department",
+        "website": "",
+        "position": "Assisting Teaching Assistant",
+        "startDate": "2021",
+        "endDate": "2021",
+        "summary": "Assisting Teaching Assistant for the course ICS 111: Introduction to Computer Science I for Fall 2021",
+        "highlights": [
+          "Provided help in conjunction with the Teaching Assistant for 60 ICS 111 students during weekly lab sessions",
+          "Hosted office hours in 3 hour intervals to provide extra assistance on an individual basisAssisted students with questions regarding homework and course material during recitation class and open hours"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "University of Hawaii at Manoa Dean's List",
+        "date": "",
+        "awarder": "University of Hawaii at Manoa",
+        "summary": "Awarded during the semesters: Fall 2019, Spring 2020, Fall 2020, Spring 2021, Spring 2022, Fall 2022, Spring 2023"
+      },
+      {
+        "title": "Fukunaga Scholarship Foundation",
+        "date": "2019",
+        "awarder": "SERVCO Pacific Inc.",
+        "summary": "Awareded to encourage students from Hawaii to work towards a career in Business"
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request"
+      }
     ]
-  },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
-}
+  }
+  
