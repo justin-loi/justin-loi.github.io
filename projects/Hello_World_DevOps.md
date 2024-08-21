@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/hello_world/aws+kubernetes.png
+image: img/projects/hello-world/aws+kubernetes.png
 title: Hello World Python DevOps Edition
 permalink: projects/hello-world-python-devops-edition
 # All dates must be in YYYY-MM-DD format!
