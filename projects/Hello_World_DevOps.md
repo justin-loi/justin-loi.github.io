@@ -5,7 +5,7 @@ image: img/projects/hello_world_devops/hello_world.png
 title: Hello World Python DevOps Edition
 permalink: projects/hello-world-python-devops-edition
 # All dates must be in YYYY-MM-DD format!
-date: 2023-05-30
+date: May 2023
 labels:
   - Python
   - DevOps
@@ -47,15 +47,16 @@ summary: |
 
 ## Visuals
 - Visuals to Come
+
 <!--
 - ![Pipeline Diagram](URL_to_Screenshot1)  
   *Pipeline architecture and deployment flow.*
 - ![Application Screenshot](URL_to_Screenshot2)  
   *Web application interface and functionality.*
 -->
+
 ## Code & Documentation
-- [GitHub Repository](URL_to_GitHub_Repository)  
-  *Explore the source code and project documentation.*
+- [GitHub Repository](https://github.com/justin-loi/hello-world-python-devops)  
 
 ## Project Development
 - **Timeline:** Completed over a period of 3 months. Key milestones included manual deployment processes followed by automation and pipeline integration.
