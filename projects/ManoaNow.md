@@ -5,50 +5,41 @@ image: img/projects/manoanow/thumbnail.png
 title: ManoaNow
 permalink: projects/manoanow
 # All dates must be in YYYY-MM-DD format!
-date: March 2023
+date: March 2022
 labels:
-  - Web Development
-  - React
-  - Node.js
-  - AWS
-  - MongoDB
+  - Mobile App Development
+  - React Native
+  - Firebase
 summary: |
-  ManoaNow is a comprehensive platform developed to provide real-time information and resources for the University of Hawaii at Manoa community. This project focuses on delivering up-to-date campus events, academic schedules, and administrative announcements through a user-friendly web application.
+  ManoaNow is a mobile application designed to provide real-time information and resources for the University of Hawaii at Manoa community. The app features an event schedule, job postings, and a campus map, aiming to enhance communication and streamline information accessibility for students, faculty, and staff.
 ---
 
 # **ManoaNow**
 
 ## Overview
-"ManoaNow" is a web-based platform designed to enhance communication and information accessibility for students, faculty, and staff at the University of Hawaii at Manoa. The application provides real-time updates on campus events, academic schedules, and administrative announcements, aiming to centralize and streamline information dissemination.
+"ManoaNow" is a mobile application developed to enhance communication and information accessibility for the University of Hawaii at Manoa community. The app delivers real-time updates on campus events, job postings, and features a campus map, aiming to centralize and streamline essential information for students, faculty, and staff.
 
 ## Your Role & Responsibilities
 **Role:** Lead Developer
 
 **Responsibilities:**
-- **Frontend Development:** Designed and implemented the user interface using React to ensure a responsive and intuitive user experience.
-- **Backend Integration:** Developed the backend API with Node.js to handle data management and interactions with the frontend.
-- **Infrastructure Setup:** Configured and deployed the application infrastructure using AWS, including setting up databases and server instances.
-- **Database Management:** Utilized MongoDB for flexible and scalable data storage.
+- **Frontend Development:** Designed and implemented the user interface using React Native to ensure a responsive and user-friendly experience across mobile devices.
+- **Backend Integration:** Utilized Firebase for data management and implemented features such as event scheduling, job postings, and interactive maps.
+- **Infrastructure Setup:** Configured the Firebase backend to support the application's data needs.
+- **Feature Implementation:** Developed and integrated key features such as the event schedule, job postings, and a campus map to enhance the app's functionality and user engagement.
 
 ## Technologies Used
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React, Express.js
+- **Languages:** JavaScript
+- **Frameworks:** React Native
 - **Tools:** 
-  - **Cloud Services:** AWS
-  - **Database:** MongoDB
-  - **Deployment & CI/CD:** Docker, GitHub Actions
-
-## Challenges & Solutions
-- **Challenge:** Integrating real-time data updates from various campus sources.
-- **Solution:** Implemented WebSockets for real-time communication and used Redis for efficient message brokering and data synchronization.
+  - **Backend Services:** Firebase
 
 ## Results & Impact
-- **Outcome:** Developed a centralized platform that improved information access and engagement within the campus community.
-- **Metric:** Achieved a 50% increase in user engagement and a 20% reduction in administrative workload within the first six months of launch.
+- **Outcome:** Successfully developed and deployed a comprehensive mobile app that significantly improved the accessibility of campus information.
+- **Metric:** Achieved a 1000 downloads and received positive feedback on the app's usability and feature.
 
 ## Visuals
 - Visuals to Come
-
 
 ## Code & Documentation
 - [GitHub Repository](https://github.com/Ka-Leo-Web-Developers/ManoaNowBefore)  

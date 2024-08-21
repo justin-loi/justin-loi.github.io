@@ -5,14 +5,13 @@ image: img/projects/volunteerally/home.png
 title: VolunteerAlly
 permalink: projects/volunteer-ally
 # All dates must be in YYYY-MM-DD format!
-date: 2022-01-01
-end_date: 2022-05-31
+date: January 2022
 labels:
+  - Web Development
   - JavaScript
   - React
   - Meteor
   - MongoDB
-  - IntelliJ
 summary: |
   VolunteerAlly is a web application developed to assist a local non-profit organization in transitioning from their outdated WordPress site to a more functional and tailored solution. Created as part of a team project for Software Engineering II, the app streamlines daily operations and enhances user engagement.
 ---
