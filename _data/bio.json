@@ -120,11 +120,25 @@
     ],
     "work": [
       {
+        "company": "Hawaii Medical Service Association (HMSA)",
+        "position": "Data Developer",
+        "website": "https://hmsa.com/",
+        "startDate": "2024/10/28",
+        "endDate": "Present",
+        "summary": "As a Data Developer working as a ",
+        "highlights": [
+          "Managed AWS cloud infrastructure for 3 Centers for Medicare & Medicaid Services (CMS) teams, ensuring continued support using Terragrunt and Terraform modules.",
+          "Oversaw 8 AWS Elastic Kubernetes Service (EKS) clusters, optimizing cluster configurations such as Istio, ArgoCD, Flux and other configurations to ensure high availability, performance, and security across all clusters.",
+          "Enhanced operational visibility and analytics by configuring and managing Splunk, Grafana, Loki, and Prometheus, leading to a 25% reduction in incident response time and improved real-time analytics for key stakeholders.",
+          "Implemented automated solutions to address key stakeholders pain points, including monitoring additional critical services, managing changes to database schemas, and ensuring email relay compliance."
+        ]
+      },
+      {
         "company": "Intellibridge (formerly RVCM)",
         "position": "DevSecOps Engineer",
         "website": "https://intellibridge.us/",
         "startDate": "2023/5/30",
-        "endDate": "Present",
+        "endDate": "2024/10/25",
         "summary": "From a DevSecOps intern to a DevSecOps Engineer working with various teams in Centers for Medicare & Medicaid Services",
         "highlights": [
           "Managed AWS cloud infrastructure for 3 Centers for Medicare & Medicaid Services (CMS) teams, ensuring continued support using Terragrunt and Terraform modules.",
