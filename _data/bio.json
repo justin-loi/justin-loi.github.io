@@ -90,6 +90,17 @@
     ],
     "education": [
       {
+        "institution": "University of Pennsylvania, Honolulu, HI (Remote)",
+        "area": "Artificial Intelligence",
+        "studyType": "Master of Science in Engineering",
+        "startDate": "2025",
+        "endDate": "",
+        "gpa": "",
+        "courses": [
+          "Artificial Intelligence"
+        ]
+      },
+      {
         "institution": "University of Hawaii, Honolulu, HI",
         "area": "Computer Science",
         "studyType": "B.S.",
@@ -127,10 +138,9 @@
         "endDate": "Present",
         "summary": "As a Data Developer working as a ",
         "highlights": [
-          "Managed AWS cloud infrastructure for 3 Centers for Medicare & Medicaid Services (CMS) teams, ensuring continued support using Terragrunt and Terraform modules.",
-          "Oversaw 8 AWS Elastic Kubernetes Service (EKS) clusters, optimizing cluster configurations such as Istio, ArgoCD, Flux and other configurations to ensure high availability, performance, and security across all clusters.",
-          "Enhanced operational visibility and analytics by configuring and managing Splunk, Grafana, Loki, and Prometheus, leading to a 25% reduction in incident response time and improved real-time analytics for key stakeholders.",
-          "Implemented automated solutions to address key stakeholders pain points, including monitoring additional critical services, managing changes to database schemas, and ensuring email relay compliance."
+          "Proactively resolved an average of 10+ production incidents per week, ensuring seamless data pipeline operations with minimal impact on downstream processes and consistently maintaining 99.5% process uptime.",
+          "Engineered automated production support alerting systems using Task Scheduler and PowerShell, reducing manual, intervention and cutting resolution time for recurring data errors by 30%, improving operational efficiency.",
+          "Validated 20+ ETL processes monthly utilizing Informatica and SQL queries, identifying and correcting critical data inconsistencies to enhance accuracy by 15% and ensure compliance with stakeholder requirements."
         ]
       },
       {
